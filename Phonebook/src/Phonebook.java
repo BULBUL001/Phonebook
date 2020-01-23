@@ -1,7 +1,5 @@
-package package1;
-
 import java.util.*;
-class PhoneBook 
+class Phonebook 
 {
 	static
 	{
